@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :trophy: Frontend Developer with experience building scalable and efficient user interfaces using React, NextJS, and MUI.
+- :trophy: Fullstack developer with experience in React, Next, VueJS, and Node.js, MySQL, MongoDB.
 - :school: My career has been a continuous evolution from roles in QA and Project Management to Fullstack Development, with a strong focus on the frontend.
 - :technologist: Always looking to learn new technologies.
 - :nerd_face: `"Be the senior you needed when you were a junior."`
